@@ -213,6 +213,11 @@ hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "c1faa74a242c766ae89b9f12c86540bcd04227eb7f4eb3052b861aed0ee94759"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
@@ -305,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
-metafile = true
-
-[[files]]
-file = "mods/interlink.pw.toml"
-hash = "447fa5adc48473ce827d4dad6e8d8f13906e38d2e0627dee6db9fc26a87442f1"
 metafile = true
 
 [[files]]

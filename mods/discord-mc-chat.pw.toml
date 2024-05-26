@@ -1,0 +1,13 @@
+name = "Discord-MC-Chat"
+filename = "Discord-MC-Chat-2.3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/3TuVILNu/Discord-MC-Chat-2.3.2.jar"
+hash-format = "sha1"
+hash = "f223cf6b66c2b17e1c6dc7a5866521cbecbf2762"
+
+[update]
+[update.modrinth]
+mod-id = "D0sHdnXY"
+version = "3TuVILNu"
