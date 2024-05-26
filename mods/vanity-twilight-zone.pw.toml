@@ -1,0 +1,13 @@
+name = "Vanity: Twilight Zone"
+filename = "vanity_twilight_zone-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5NWxEL7g/versions/wtXzpWqd/vanity_twilight_zone-1.20.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "8624811d0fec8307d6bebe7b13886ca42bfcb955"
+
+[update]
+[update.modrinth]
+mod-id = "5NWxEL7g"
+version = "wtXzpWqd"

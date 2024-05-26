@@ -1,0 +1,13 @@
+name = "Vanity: Crucible"
+filename = "vanity_crucible-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nBQRGCUs/versions/axkfYerw/vanity_crucible-1.2.jar"
+hash-format = "sha1"
+hash = "6f7df4b1e23581d0075d54f0f9deb20ce9d3d285"
+
+[update]
+[update.modrinth]
+mod-id = "nBQRGCUs"
+version = "axkfYerw"

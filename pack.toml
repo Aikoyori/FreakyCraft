@@ -1,0 +1,13 @@
+name = "𝓕𝓻𝓮𝓪𝓴𝔂Craft"
+author = "Aikoyori"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "75933f15f03bd27fc2188cc8aae67a78c4d06ebea3bd706f09e89c3602932658"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.0-beta.3"

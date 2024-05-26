@@ -1,0 +1,13 @@
+name = "Additional Additions"
+filename = "AdditionalAdditions-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/1ljqbdZZ/AdditionalAdditions-6.0.1.jar"
+hash-format = "sha1"
+hash = "68c8873544b4b01708c9f508c49ac401db079541"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "1ljqbdZZ"

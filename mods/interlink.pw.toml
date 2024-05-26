@@ -1,0 +1,13 @@
+name = "Interlink"
+filename = "Interlink-1.19.2-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXujakrI/versions/f8ZSZenf/Interlink-1.19.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "b2b68024a4bfedf4af229f0eefbd2ceaafa444be"
+
+[update]
+[update.modrinth]
+mod-id = "CXujakrI"
+version = "f8ZSZenf"

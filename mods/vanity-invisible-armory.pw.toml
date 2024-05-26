@@ -1,0 +1,13 @@
+name = "Vanity: Invisible Armory"
+filename = "vanity_invisible_armory-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dPFJcJUr/versions/GW3NVr7Z/vanity_invisible_armory-1.0.3.jar"
+hash-format = "sha1"
+hash = "2ae7f14c645db809a1252ff02b7655cd8fadd602"
+
+[update]
+[update.modrinth]
+mod-id = "dPFJcJUr"
+version = "GW3NVr7Z"

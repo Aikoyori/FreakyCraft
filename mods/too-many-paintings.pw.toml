@@ -1,0 +1,13 @@
+name = "Too Many Paintings!"
+filename = "toomanypaintings-1.0.1-1.20-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8Fpxcl7/versions/t6GSXX3E/toomanypaintings-1.0.1-1.20-fabric.jar"
+hash-format = "sha1"
+hash = "a59fc0853edaa4bc107d17a609668cd314703ade"
+
+[update]
+[update.modrinth]
+mod-id = "T8Fpxcl7"
+version = "t6GSXX3E"

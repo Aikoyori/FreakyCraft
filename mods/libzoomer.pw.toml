@@ -1,0 +1,13 @@
+name = "LibZoomer"
+filename = "libzoomer-0.8.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UuqHBjf9/versions/L0Z9ESDh/libzoomer-0.8.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "342421fc1cd4f8834981930ed1cebcb91cc36910"
+
+[update]
+[update.modrinth]
+mod-id = "UuqHBjf9"
+version = "L0Z9ESDh"

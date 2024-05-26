@@ -1,0 +1,13 @@
+name = "Vanity: Elementals"
+filename = "elemental-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dUoQpVe2/versions/PEXL8CwF/elemental-1.1.jar"
+hash-format = "sha1"
+hash = "7ab336b2676e72bbdf0ea9c412b95e07a4a19167"
+
+[update]
+[update.modrinth]
+mod-id = "dUoQpVe2"
+version = "PEXL8CwF"

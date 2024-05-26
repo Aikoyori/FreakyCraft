@@ -1,0 +1,13 @@
+name = "Fan-shaped cake"
+filename = "Fan-shape-cake-1.13-1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTQEwb0F/versions/pmfvynla/Fan-shape-cake-1.13-1.20.zip"
+hash-format = "sha1"
+hash = "f382af9938f7aca77256f41f101222dac42c381a"
+
+[update]
+[update.modrinth]
+mod-id = "oTQEwb0F"
+version = "pmfvynla"

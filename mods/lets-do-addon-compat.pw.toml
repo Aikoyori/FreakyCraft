@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Compat"
+filename = "letsdo-addon-compat-fabric-v1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FNi5IMiX/versions/4QpZbJLu/letsdo-addon-compat-fabric-v1.4.1.jar"
+hash-format = "sha1"
+hash = "bc422d292ecec95bdfdabe3cd0de6f163b42e983"
+
+[update]
+[update.modrinth]
+mod-id = "FNi5IMiX"
+version = "4QpZbJLu"

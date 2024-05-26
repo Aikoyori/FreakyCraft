@@ -1,0 +1,13 @@
+name = "Vanity: La Baguette"
+filename = "vanity_baguette-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b49OXnDO/versions/1B9ish8D/vanity_baguette-1.0.0.jar"
+hash-format = "sha1"
+hash = "156b725ddc98ec8cf3fa6217f5ce917105b056ad"
+
+[update]
+[update.modrinth]
+mod-id = "b49OXnDO"
+version = "1B9ish8D"
