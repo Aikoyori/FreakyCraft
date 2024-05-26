@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json"
+hash = "aea562da992f852b6210676efd6a70ce83f73fd31c482ce76ca5560abce1740e"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "ad316efb68734387e3b495cc1e4fa8e606f8b1340f08d041989c34e083e17263"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "cf1c17df96a94e1c5317d404306ddbed1ebd57ee71d18083dbf7bf25ddceadec"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "f91632afb139beb9fea6e73400242a24aaeb21cd65c66fe6b25337a10df285dc"
 metafile = true
@@ -679,6 +691,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FreakyLogo.zip"
+hash = "b6606f5173e320d040c69d4727e640b03e6e54c73f2f5ba9f52803889b16ae5c"
 
 [[files]]
 file = "resourcepacks/fan-shaped-cake.pw.toml"

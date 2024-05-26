@@ -1,0 +1,18 @@
+{
+  "progressBarType": "Vanilla",
+  "logoStyle": "Hidden",
+  "backgroundImage": true,
+  "logoBlend": false,
+  "splashBackgroundColor": "#EF323D",
+  "splashProgressBarColor": "#FFFFFF",
+  "splashProgressFrameColor": "#FFFFFF",
+  "splashProgressBackgroundColor": "#000000",
+  "progressBarBackground": false,
+  "customProgressBarMode": "Linear",
+  "bossBarColor": "MAGENTA",
+  "bossBarType": "NOTCHED_6",
+  "bossBarSize": 85,
+  "spinningCircleSize": 2,
+  "spinningCircleSpeed": 4,
+  "spinningCircleTrail": 5
+}
