@@ -51,11 +51,6 @@ hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
 
 [[files]]
-file = "mods/aurorasdecorations.pw.toml"
-hash = "84e6130e671eb8580ec0181e2a81f5722c0e5acad4143dac22753bff0a5e7f4b"
-metafile = true
-
-[[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
@@ -251,6 +246,16 @@ hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
@@ -416,8 +421,8 @@ hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "4cd378e51f151d6a90519d18aa716e0de02af2a9804488fef2c182d5a964d1b5"
+file = "mods/ok-boomer.pw.toml"
+hash = "d7eff753b1192e76f4f1a1cd4b3e9cfe00835d96c4de33cbeee00bcba4252f19"
 metafile = true
 
 [[files]]
@@ -438,16 +443,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
