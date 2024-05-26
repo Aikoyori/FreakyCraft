@@ -83,6 +83,11 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
