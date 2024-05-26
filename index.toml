@@ -196,11 +196,6 @@ hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
 metafile = true
 
 [[files]]
-file = "mods/death-counter-ichun.pw.toml"
-hash = "6d0759c1740580c4f25cb13ff9839d62d0b8a9543b2aab43eb10eee222d0b84e"
-metafile = true
-
-[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
