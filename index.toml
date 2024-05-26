@@ -171,11 +171,6 @@ hash = "102eec6363f711986f22f402338b0d23818227d7137c95c83b6eca419228a555"
 metafile = true
 
 [[files]]
-file = "mods/create-power-loader-fabric.pw.toml"
-hash = "4b35bfb31de748536055e1386d9e411b776945fcecfcef0604ec5155e4cef432"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
@@ -468,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true
 
 [[files]]
