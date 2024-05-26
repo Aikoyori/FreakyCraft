@@ -558,6 +558,11 @@ hash = "2f0c925835e708089d56ebd9723eb25c5547b2de2fa96f7c03881fa832912a39"
 metafile = true
 
 [[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
 file = "mods/too-many-paintings.pw.toml"
 hash = "ee716ac4adba2a1bbb3f9ddfb20868134759c600cfa3000c04380de01cad015c"
 metafile = true
