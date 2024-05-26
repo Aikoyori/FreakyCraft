@@ -723,6 +723,11 @@ hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/FreakyLogo.zip"
 hash = "b6606f5173e320d040c69d4727e640b03e6e54c73f2f5ba9f52803889b16ae5c"
 
