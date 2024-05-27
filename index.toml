@@ -338,6 +338,11 @@ hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
@@ -605,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "da18e11a2c13fded0b2d5cebe9b16bf6bf6d73f3b4e03bb332aae12fed9c4833"
 metafile = true
 
 [[files]]
