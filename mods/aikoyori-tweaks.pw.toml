@@ -1,0 +1,13 @@
+name = "Aikoyori Tweaks"
+filename = "AikoyoriTweaks-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oIeyS2fs/versions/LFDHHK35/AikoyoriTweaks-1.1.0.jar"
+hash-format = "sha1"
+hash = "dc2cf3ce41add9d48c70fddc4f19e99f980d0720"
+
+[update]
+[update.modrinth]
+mod-id = "oIeyS2fs"
+version = "LFDHHK35"

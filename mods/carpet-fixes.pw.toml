@@ -1,0 +1,13 @@
+name = "Carpet-Fixes"
+filename = "carpet-fixes-1.20-1.17.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Jaxgqip/versions/rJzXa8HU/carpet-fixes-1.20-1.17.0.jar"
+hash-format = "sha1"
+hash = "71db2ba00663aeb9c2533b025fb036b0e2f84370"
+
+[update]
+[update.modrinth]
+mod-id = "7Jaxgqip"
+version = "rJzXa8HU"

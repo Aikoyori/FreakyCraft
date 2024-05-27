@@ -23,6 +23,11 @@ hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
+file = "mods/aikoyori-tweaks.pw.toml"
+hash = "da8cd99511901a01b4cb30e0904f8fb117e9326785121c7caf78eee0070d6981"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "16171a0ce86e7905748e7ed4c19bd3c03fab00a9a932213d9b5cd6e1850cd0c0"
 metafile = true
@@ -108,6 +113,11 @@ hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -138,6 +148,11 @@ hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
 
 [[files]]
+file = "mods/conjuring.pw.toml"
+hash = "812ae6a87fd70619fe6ff6b7c91802c1a01688e3ba4d5d1a468065bdbbb4ce50"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
@@ -150,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "5fc93b617e87a64c0d687b12cccef78366566d84e2012a4dd6a94340d60bdd7f"
 metafile = true
 
 [[files]]
@@ -440,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/medievalweapons.pw.toml"
 hash = "fa0b66d07831cc7002f68ccfc171aa4fc5467e793ed64a5aff9ea407aab49965"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
