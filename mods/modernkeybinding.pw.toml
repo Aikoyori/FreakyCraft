@@ -1,6 +1,6 @@
 name = "Modern KeyBinding"
 filename = "ModernKeyBinding-Fabric-1.20-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rQszQPD2/versions/OFIAZVy7/ModernKeyBinding-Fabric-1.20-1.2.0.jar"
