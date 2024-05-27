@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernkeybinding.pw.toml"
-hash = "1f92d47cf71d830265486ab8246d82b7718f0d434bedd5716867bffed9fd5d30"
+hash = "0af45a21d373537de0bace4256827c65b78aacaf9573bacf531e05f70a492252"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
+hash = "97f498b07031e2182b35950117c01d2b5be682ad03a12fedb041e739b9dbd0f9"
 metafile = true
 
 [[files]]
