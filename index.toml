@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/aikoyori-tweaks.pw.toml"
-hash = "dee464c100946853d2b22707a062a626735d1b220d584b42c310432e31f8b593"
+hash = "cf62172aec645536fd36413f74ae9c32f979f81d329125a809a53e7398adf204"
 metafile = true
 
 [[files]]

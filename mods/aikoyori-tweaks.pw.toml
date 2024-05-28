@@ -1,13 +1,13 @@
 name = "Aikoyori Tweaks"
-filename = "AikoyoriTweaks-1.1.1.jar"
+filename = "AikoyoriTweaks-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oIeyS2fs/versions/acmos1lR/AikoyoriTweaks-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/oIeyS2fs/versions/BC7mTLRH/AikoyoriTweaks-1.1.2.jar"
 hash-format = "sha1"
-hash = "2c00ec238dd5e312247818d91203ec19950f7150"
+hash = "9c56c860f38cf3698cf10d39a8a5dbfa39ae5151"
 
 [update]
 [update.modrinth]
 mod-id = "oIeyS2fs"
-version = "acmos1lR"
+version = "BC7mTLRH"
