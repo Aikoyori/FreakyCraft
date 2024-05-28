@@ -28,6 +28,11 @@ hash = "cf62172aec645536fd36413f74ae9c32f979f81d329125a809a53e7398adf204"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d9cde7ab006d67906422390fd499e84b2269ddb52866a53f2e2c6b295d3ee116"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "16171a0ce86e7905748e7ed4c19bd3c03fab00a9a932213d9b5cd6e1850cd0c0"
 metafile = true
