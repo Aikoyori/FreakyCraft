@@ -123,6 +123,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "a513a1a5d73374f5c0efbfb6f41caea77b34af0198810f40bfde1687263b2199"
 metafile = true
@@ -533,6 +538,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
@@ -650,6 +660,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
 metafile = true
 
 [[files]]
