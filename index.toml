@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
+hash = "3b9e5b026c267aac9ea4c2747f8ad9eb37a7d400f7a529870a4193870f6a28da"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+hash = "1a1bd64e1b729d6f8eb8f5e7879359214f353980824775805d27b9324ec1e176"
 metafile = true
 
 [[files]]
@@ -335,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
 metafile = true
 
 [[files]]
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
 
 [[files]]
