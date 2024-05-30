@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched-fabric.pw.toml"
-hash = "912f90f494515efb2053d72bf9a794a068c641f6e75a32c26018bb8ea2467439"
+hash = "0fd05f5adbc51eac20a5aa8c24110ba15af35f9138c349bd1a264078a4929459"
 metafile = true
 
 [[files]]
