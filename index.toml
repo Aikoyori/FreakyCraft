@@ -168,6 +168,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "57cfa52bd7cc0f56aebb5658236ba2205d0f906a60227912d350ff752f996c2f"
 metafile = true
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched-fabric.pw.toml"
-hash = "f3abd9fbdcc52c0d5a4336d849dfd9b22c629121e350ed2171d9defd61490f88"
+hash = "82073823319c3708412bcb8f0bd9648b78d49b76d4eca52af705fd282575313b"
 metafile = true
 
 [[files]]
@@ -555,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]

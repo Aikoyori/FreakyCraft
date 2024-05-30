@@ -1,8 +1,8 @@
 name = "Etched Fabricated"
-filename = "etched-3.0.1.2-fabricated.jar"
+filename = "etched-3.0.1.3-fabricated.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Aikoyori/etched-fabric/releases/download/3.0.1.2-fabricated/etched-3.0.1.2-fabricated.jar"
+url = "https://github.com/Aikoyori/etched-fabric/releases/download/3.0.1.3-fabricated/etched-3.0.1.3-fabricated.jar"
 hash-format = "sha1"
-hash = "7204cfed0e635f4eca6ec46983c9f87c2ebd14b3"
+hash = "943ff01823b55ae72ec6a69d0fe7bcf33a874e4e"
