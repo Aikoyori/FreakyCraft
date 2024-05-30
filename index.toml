@@ -323,6 +323,10 @@ hash = "6ae031eef8b433e973a4c6f3e4ed5650e619aa757406aae036d23ad637a034d4"
 metafile = true
 
 [[files]]
+file = "mods/etched-fabric.toml"
+hash = "912f90f494515efb2053d72bf9a794a068c641f6e75a32c26018bb8ea2467439"
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
