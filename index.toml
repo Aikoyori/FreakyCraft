@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched-fabric.pw.toml"
-hash = "0fd05f5adbc51eac20a5aa8c24110ba15af35f9138c349bd1a264078a4929459"
+hash = "f3abd9fbdcc52c0d5a4336d849dfd9b22c629121e350ed2171d9defd61490f88"
 metafile = true
 
 [[files]]
@@ -600,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/packed-up-backpacks.pw.toml"
 hash = "39cd7c4b220832273bed2a67572a796d3d14cf30f5b7fc014f14787aa27daa03"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
