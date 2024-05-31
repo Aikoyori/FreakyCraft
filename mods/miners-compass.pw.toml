@@ -1,0 +1,13 @@
+name = "Miner's Compass"
+filename = "miners-compass-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPs9k0db/versions/SRH6VmrN/miners-compass-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0a6bcf5cb3474fec18e8a7c47d19dc79b3e57d34"
+
+[update]
+[update.modrinth]
+mod-id = "tPs9k0db"
+version = "SRH6VmrN"

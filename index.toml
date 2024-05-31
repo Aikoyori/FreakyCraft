@@ -198,6 +198,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "6737a0662cc09ac740603c2ea1d114482c0d96bc049e7106884b7dd6125de3e0"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
 metafile = true
@@ -298,6 +303,11 @@ hash = "57bdebf7fb5de047c0fe304d2646c854d629007734c589253aaa97973982f522"
 metafile = true
 
 [[files]]
+file = "mods/ductwork.pw.toml"
+hash = "209c9f7fd921904203e56349f139afe0965b500f687c8c518814376c66468564"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
 metafile = true
@@ -340,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "34cae8159356aa6257340c0cfa0e4f13df5ed1d9f58eb50e68062a5a4e39de88"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
 metafile = true
 
 [[files]]
@@ -553,6 +568,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/miners-compass.pw.toml"
+hash = "b3dac9d7ccf1fb5e6230aa84d52e09dcf8d2ba82fdd3e431e1c1fc15e7f9a5a2"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -588,6 +608,16 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
+file = "mods/netherite-compass.pw.toml"
+hash = "87cca9291c0bcc66008255ac6c2bb1549407fa147456dfd2d577b8b6b248d222"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -600,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/ok-boomer.pw.toml"
 hash = "d7eff753b1192e76f4f1a1cd4b3e9cfe00835d96c4de33cbeee00bcba4252f19"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "bf5fce9a1d5ffa923145c8e178ac6cef28a558340fea8a4832828b5ce4472bce"
 metafile = true
 
 [[files]]
@@ -695,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/staff-of-building.pw.toml"
+hash = "6090690dd09d31f814e38cbeb7e34bc37073242edcf0e6f802f3dc94168b3d8a"
 metafile = true
 
 [[files]]

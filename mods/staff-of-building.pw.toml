@@ -1,0 +1,13 @@
+name = "Staff of Building Reborn"
+filename = "staffofbuilding-1.20.1-1.5.2-rc1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A8lXhT3W/versions/bDSN4PT0/staffofbuilding-1.20.1-1.5.2-rc1.jar"
+hash-format = "sha1"
+hash = "09bb77fbc6173909f5fd0a727893052b89c68bbb"
+
+[update]
+[update.modrinth]
+mod-id = "A8lXhT3W"
+version = "bDSN4PT0"

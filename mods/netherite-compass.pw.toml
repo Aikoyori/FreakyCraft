@@ -1,0 +1,13 @@
+name = "Netherite Compass"
+filename = "netherite_compass-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AnC3DwAn/versions/yTjt8R7R/netherite_compass-1.0.1.jar"
+hash-format = "sha1"
+hash = "22f3212c415a84b241662fef94c4037f3a357774"
+
+[update]
+[update.modrinth]
+mod-id = "AnC3DwAn"
+version = "yTjt8R7R"
