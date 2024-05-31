@@ -103,6 +103,11 @@ hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
+file = "mods/bigger-better-end-cities.pw.toml"
+hash = "bd1983d507965791b48d2d30e53609be50887fdec8b7c7c33cf716b41b4e95f5"
+metafile = true
+
+[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
@@ -664,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "6ce5b84c9c00519a748d14e51313725a6783939baca49ac5e92abe8163eb1da2"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
 metafile = true
 
 [[files]]
