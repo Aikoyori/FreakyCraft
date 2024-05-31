@@ -48,11 +48,6 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae.pw.toml"
-hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -590,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
-file = "mods/obscure-api.pw.toml"
-hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
 
 [[files]]
