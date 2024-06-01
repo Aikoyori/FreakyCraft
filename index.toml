@@ -34,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
-hash = "16171a0ce86e7905748e7ed4c19bd3c03fab00a9a932213d9b5cd6e1850cd0c0"
+hash = "5accd2e36c1a55de10e18c2b6b0ddf02bc7dc930d11a974c87f84a3573f75dc6"
 metafile = true
 
 [[files]]
@@ -93,13 +93,33 @@ hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "3aae1e3ccee1651be703edadcd0594288c8b202b4777687f8e0a7095e28ef07a"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
@@ -325,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
@@ -573,6 +598,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
 file = "mods/miners-compass.pw.toml"
 hash = "b3dac9d7ccf1fb5e6230aa84d52e09dcf8d2ba82fdd3e431e1c1fc15e7f9a5a2"
 metafile = true
@@ -685,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "c853e932d415b99dbd498380451a80f0e96d15f2a7aa6f4285aae714dcdf53c0"
 metafile = true
 
 [[files]]
@@ -940,6 +975,16 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "120a21fa73bcc231ebb23dd30fc32b1da54ced4ab62c5e3f052927e06d422f1c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ceffda181c95ab0ecbc91e01071d2df27d53117da2ae6453c1f0bb46be0fe4f0"
 metafile = true
 
 [[files]]
