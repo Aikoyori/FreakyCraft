@@ -1,0 +1,13 @@
+name = "2032 World Height"
+filename = "2032-world-height-1.17+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JTNe4RSx/versions/Yku95Z4M/2032-world-height-1.17%2B.jar"
+hash-format = "sha1"
+hash = "5ede4992b9ae1b9f6df2194c2eb736837a579987"
+
+[update]
+[update.modrinth]
+mod-id = "JTNe4RSx"
+version = "Yku95Z4M"
