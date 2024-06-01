@@ -1,0 +1,5 @@
+{
+    "CONFIG_VERSION": 1,
+    "server_ip": "figura.nijika.dev",
+    "allow_networking": true
+}
