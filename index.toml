@@ -368,6 +368,11 @@ hash = "1a1bd64e1b729d6f8eb8f5e7879359214f353980824775805d27b9324ec1e176"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "6ae031eef8b433e973a4c6f3e4ed5650e619aa757406aae036d23ad637a034d4"
 metafile = true
