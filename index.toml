@@ -9,12 +9,21 @@ file = "config/customsplashscreen/background.png"
 hash = "ad316efb68734387e3b495cc1e4fa8e606f8b1340f08d041989c34e083e17263"
 
 [[files]]
+file = "config/figura.json"
+hash = "06c36267eabd299379c33296407fe606ad8a9563be19d6ce2dd95035979d1409"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "cf1c17df96a94e1c5317d404306ddbed1ebd57ee71d18083dbf7bf25ddceadec"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
 hash = "ef0a53843e48a63ea7a9ce77216cf66e7eafe0ea0a91a16ed39304118f5c65d4"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
 
 [[files]]
@@ -250,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
 metafile = true
 
 [[files]]
@@ -738,6 +752,11 @@ hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
@@ -745,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
 metafile = true
 
 [[files]]
@@ -808,6 +832,11 @@ hash = "ef1cc12d846f3dec882d0edf76a5560e4c3fe221edca84a2da8089539e4307e9"
 metafile = true
 
 [[files]]
+file = "mods/thecopperrail.pw.toml"
+hash = "32ede42249660f81498ca4f2b1a2e495e9d064042c33135df883634d1abaf480"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
@@ -844,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/transmog.pw.toml"
-hash = "76734e19d72c339415620f8fb859bb0e71898b25ba988d6531d8bf0e2212388e"
+hash = "7c8f173a16772592b689fe4c9f453d48640f4deabb882ce11e7fe27f3ab28628"
 metafile = true
 
 [[files]]

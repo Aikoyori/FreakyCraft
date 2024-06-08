@@ -1,0 +1,13 @@
+name = "The Copper Rail"
+filename = "thecopperrail-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P8zXItsV/versions/4BHZPOmJ/thecopperrail-0.9.1.jar"
+hash-format = "sha1"
+hash = "5df2ed0722ec78af3a148ace0ac6b6cb3c974c24"
+
+[update]
+[update.modrinth]
+mod-id = "P8zXItsV"
+version = "4BHZPOmJ"

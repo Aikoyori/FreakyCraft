@@ -1,13 +1,13 @@
 name = "Transmog"
-filename = "transmog-quilt-1.3.0+1.20.jar"
+filename = "transmog-fabric-1.3.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Th33t82F/versions/ZqiJgB3A/transmog-quilt-1.3.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/Th33t82F/versions/UnYsgubm/transmog-fabric-1.3.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "1e0722c730df498f99e4c6e8df1219a2cd0bef80"
+hash = "abb0563086c258941355b4f092b3a4c18b91896f"
 
 [update]
 [update.modrinth]
 mod-id = "Th33t82F"
-version = "ZqiJgB3A"
+version = "UnYsgubm"
