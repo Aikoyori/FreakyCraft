@@ -462,11 +462,6 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
-file = "mods/give-me-hats.pw.toml"
-hash = "95cc515cae7ec272e0166e8c8532e2105d3879d533d9bd545669e4a49a36167c"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "fb66ee96cf8bb97318f621112bf35f1902a17deb286d9fde31c2ce72c63e60d7"
 metafile = true
