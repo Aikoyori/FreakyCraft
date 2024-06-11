@@ -37,6 +37,31 @@ hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "e5e2a6211343c0b61976d046cf64dad7953ad65991a61cecc926714a44ccc7ee"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "aa7d54a2399cced1f8df7a5d9cef280e3419d48e24d9c7698a9dd5401befc828"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "73ca8e414d5370acc3a2d6eda4f4b7f1c273c78b0f5545a8c42425dec18e22f0"
+metafile = true
+
+[[files]]
+file = "mods/ae2cc.pw.toml"
+hash = "147a7bdbecbdc4c5748dbc4e4ce7d941d221c9c595dfce0fb795b2cc5650a103"
+metafile = true
+
+[[files]]
 file = "mods/aikoyori-tweaks.pw.toml"
 hash = "cf62172aec645536fd36413f74ae9c32f979f81d329125a809a53e7398adf204"
 metafile = true
@@ -59,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "67d1dac247ae7af173e15fa747cdb301c5fd9fdaa395840d683cd03b5913956b"
 metafile = true
 
 [[files]]
@@ -634,6 +664,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "62541f8a4c8eb2fe1a3cf2ef30e17dfafb6e3e24f7bfb4e63ca2df550ec44b52"
 metafile = true
 
 [[files]]
