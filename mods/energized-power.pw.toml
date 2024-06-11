@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-1.20.1-2.11.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/A372ERgC/energizedpower-1.20.1-2.11.1-fabric.jar"
+hash-format = "sha1"
+hash = "09d3e13421f397e1a64bac0b6d2d59b0c8af26e1"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "A372ERgC"

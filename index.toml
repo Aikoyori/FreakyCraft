@@ -187,6 +187,11 @@ hash = "43fe767a08365fa6c049c8e35323f6fd1a0aa4602725126e460ae6fd514888be"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "fdd2967ad9bee06ddbfaff645fee4c0bfe11064acc5b60f95891d0143263c79e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
@@ -414,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "458a81134f08d6da505fbfc19d3c9e90d4cc984e6f1bbd841fe08459d0f62a51"
 metafile = true
 
 [[files]]
@@ -754,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "85cae3c368c0405f81d078a73a0857f5da1db8f7a027658ab9607944ff8f225e"
 metafile = true
 
 [[files]]
